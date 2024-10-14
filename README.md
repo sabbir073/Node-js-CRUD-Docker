@@ -37,8 +37,8 @@ To run this project locally or from GitHub, follow these steps:
 ### Steps to Run
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/sabbir073/Node-js-CRUD-Docker.git
+   cd Node-js-CRUD-Docker
    ```
 
 2. **Install dependencies**:
