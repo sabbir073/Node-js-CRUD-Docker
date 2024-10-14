@@ -1,0 +1,16 @@
+{
+  "name": "node-employee-app",
+  "version": "1.0.0",
+  "description": "Employee management CRUD app for Apollonia Dental Practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
